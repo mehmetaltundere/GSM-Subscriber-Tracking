@@ -1,0 +1,20 @@
+# Binary files / Derleme dosyalari
+*.exe
+*.o
+*.out
+*.obj
+
+# Debug files
+*.pdb
+*.idb
+
+# Temp and local database files
+*.db
+*.tmp
+*.log
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
