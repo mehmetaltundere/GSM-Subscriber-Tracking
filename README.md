@@ -37,7 +37,3 @@ Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için [LICENSE](LICENSE)
 
 ## 👨‍💻 Author / Geliştirici
 **Yiğit Mehmet ALTUNDERE**
-
----
-*Developed as a professional portfolio project.*
-*Profesyonel portfolyo projesi olarak geliştirilmiştir.*
